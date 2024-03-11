@@ -1,2 +1,3 @@
 # WinDN-8.1
-This is Windows 8.1, Recreated in DevelNext
+**Привет!** Я (KS51) попробовал воссоздать теперь мою любимую систему Windows 8.1.
+Тестируйте и заходите на мой [Дискорд сервер](https://discord.gg/sugzKFuH) !
